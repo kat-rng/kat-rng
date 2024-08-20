@@ -1,4 +1,5 @@
-## Hi there 👋
+# Kat-rng's Github
+Check out my projects!
 
 <!--
 **kat-rng/kat-rng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
